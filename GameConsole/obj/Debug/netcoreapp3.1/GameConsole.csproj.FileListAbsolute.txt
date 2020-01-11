@@ -1,0 +1,11 @@
+C:\Users\outmane\source\repos\GameConsole\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.exe
+C:\Users\outmane\source\repos\GameConsole\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.deps.json
+C:\Users\outmane\source\repos\GameConsole\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.runtimeconfig.json
+C:\Users\outmane\source\repos\GameConsole\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.runtimeconfig.dev.json
+C:\Users\outmane\source\repos\GameConsole\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.dll
+C:\Users\outmane\source\repos\GameConsole\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.pdb
+C:\Users\outmane\source\repos\GameConsole\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.csprojAssemblyReference.cache
+C:\Users\outmane\source\repos\GameConsole\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.AssemblyInfoInputs.cache
+C:\Users\outmane\source\repos\GameConsole\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.AssemblyInfo.cs
+C:\Users\outmane\source\repos\GameConsole\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.dll
+C:\Users\outmane\source\repos\GameConsole\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.pdb
